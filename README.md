@@ -28,3 +28,12 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 
     2. A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s and save this integer as short_movie_count.
 
+# Most Frequent Movie Duration in the 1990s
+<img width="699" height="564" alt="image" src="https://github.com/user-attachments/assets/49f5d130-b018-4f47-b89b-287f059cdb36" />
+**Based on the histogram provided the most frequent duration in the 1990s is 94 minutes**
+
+# Count of short action movies in 1990s (<90 minutes)
+<img width="706" height="550" alt="image" src="https://github.com/user-attachments/assets/12c2042e-1562-4be2-855e-3d48595cc16d" />
+**Based on the histogram There are 7 movies that are considered short action movies
+"EVANGELION: DEATH (TRUE)²" is the shortest movie with a duration of 69 minutes
+89 minutes is the most frequent movie duration among the shortest action movies in the 1990s**
